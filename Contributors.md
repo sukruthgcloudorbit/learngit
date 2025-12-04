@@ -5,3 +5,4 @@ Sukruth
 Member1
 First PR- Contributor
 Second PR- Contributors
+### 2nd way- Contributor2
